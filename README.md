@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pedraza</h1>
-<h3 align="center">I'm a frontend developer from Córdoba, Argentina. I like to create fast web applications with React, easy to use and built with best practices.</h3>
+<h3 align="center">I'm a FrontEnd developer from Córdoba, Argentina. I like to create fast web applications with React, easy to use and built with best practices.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
