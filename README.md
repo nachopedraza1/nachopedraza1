@@ -55,8 +55,6 @@
 <a href="https://instagram.com/naacho.pedraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naacho.pedraza" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachopedraza1&show_icons=true&locale=en&layout=compact" alt="nachopedraza1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachopedraza1&show_icons=true&locale=en" alt="nachopedraza1" /></p>
+p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachopedraza1&show_icons=true&locale=en&layout=compact" alt="nachopedraza1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachopedraza1&" alt="nachopedraza1" /></p>
