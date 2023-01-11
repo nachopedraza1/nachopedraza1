@@ -16,6 +16,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
     </a>
+    <a href="https://mui.com/" target="_blank" rel="noreferrer">
+      <img src="https://mui.com/static/logo.png" alt="mui" width="40"
+        height="40" />
+    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
         height="40" />
