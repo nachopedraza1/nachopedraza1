@@ -40,7 +40,7 @@
     </a>
     </a>
         <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
-      <img src="https://w7.pngwing.com/pngs/450/470/png-transparent-node-js-angularjs-react-javascript-npm-node-js-angle-text-trademark-thumbnail.png" alt="node"  width="45" height="45" />
+      <img src="https://ibb.co/MsHc0k4" alt="node"  width="45" height="45" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
