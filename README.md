@@ -41,6 +41,8 @@
     </a>
         <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="node"  width="45" height="45" />
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="express"  width="45" height="45" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
