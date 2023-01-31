@@ -39,8 +39,8 @@
         width="40" height="40" />
     </a>
     </a>
-        <a href="https://mui.com/](https://nodejs.org/es/)" target="_blank" rel="noreferrer">
-      <img src="https://mui.com/static/logo.png](https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png)" alt="node"  width="45" height="45" />
+        <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
+      <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="node"  width="45" height="45" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
