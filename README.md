@@ -36,7 +36,7 @@
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"
-        alt="nextjs" width="50" height="50" />
+        alt="nextjs" width="50" height="30" />
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
