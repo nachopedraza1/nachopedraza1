@@ -69,4 +69,5 @@
 <a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="home" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juanpedraza1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanpedraza1905" height="30" width="40" /></a>
 <a href="https://instagram.com/naacho.pedraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naacho.pedraza" height="30" width="40" /></a>
+<div></div>
 </p>
