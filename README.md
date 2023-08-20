@@ -4,7 +4,6 @@
 Web developer with more than 3 years of experience in creating innovative digital solutions. Expert in the design and development of interactive websites and high performance web applications. Extensive knowledge in Front-End and Back-End technologies Experience in API integration and user experience optimization. Passionate about technical problem solving and committed to continuous learning to keep up with the latest trends in web development. Effective collaborator in multidisciplinary teams and a strong results-oriented work ethic.
     
 </h3>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" /></a>
