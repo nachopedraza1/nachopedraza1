@@ -53,6 +53,15 @@ Web developer with more than 3 years of experience in creating innovative digita
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+      <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" width="40" height="40" />
+    </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb" width="40" height="40" />
