@@ -1,7 +1,7 @@
 lo<h1 align="center">Hi 👋, I'm Juan Pedraza</h1>
 
 <h3 align="center">
-Web developer with more than 3 years of experience in creating innovative digital solutions. Expert in the design and development of interactive websites and high performance web applications. Extensive knowledge in Front-End and Back-End technologies. Experience in API integration and user experience optimization. Passionate about technical problem solving and committed to continuous learning to keep up with the latest trends.
+Web developer with more than 3  years of experience in creating innovative digital solutions. Expert in the design and development of interactive websites and high performance web applications. Extensive knowledge in Front-End and Back-End technologies. Experience in API integration and user experience optimization. Passionate about technical problem solving and committed to continuous learning to keep up with the latest trends.
 </h3>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
