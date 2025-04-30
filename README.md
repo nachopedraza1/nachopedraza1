@@ -27,7 +27,7 @@ Web developer with more than 4  years of experience in creating innovative digit
     </a>
     </a>
         <a href="https://ant.design/ target="_blank" rel="noreferrer">
-      <img src="[https://mui.com/static/logo.png](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)" alt="antd"  width="45" height="45" />
+      <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-xbdsnx83.png" alt="antd"  width="45" height="45" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
