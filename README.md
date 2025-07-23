@@ -80,6 +80,10 @@ Web developer with more than 5 years of experience in creating innovative digita
       <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"
         alt="docker" width="40" height="40" />
     </a>
+     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"
+        alt="aws" width="40" height="40" />
+    </a>
   </p>
 
 
