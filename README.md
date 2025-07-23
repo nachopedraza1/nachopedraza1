@@ -27,7 +27,7 @@ Web developer with more than 5 years of experience in creating innovative digita
     </a>
     </a>
         <a href="https://ant.design/ target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-xbdsnx83.png" alt="antd"  width="40" height="40" />
+      <img src="[https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-xbdsnx83.png](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)" alt="antd"  width="40" height="40" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
