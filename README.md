@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Pedraza</h1>
 
 <h3 align="center">
-Web developer with 5+ years of experience crafting innovative digital solutions. Specialized in building high-performance websites and fullstack applications. Skilled in both Front-End and Back-End technologies, API integrations, and optimizing user experiences. Passionate about solving technical challenges and always learning the latest tools and trends.
+Developer with 5+ years of experience crafting innovative digital solutions. Specialized in building high-performance websites and fullstack applications. Skilled in both Front-End and Back-End technologies, API integrations, and optimizing user experiences. Passionate about solving technical challenges and always learning the latest tools and trends.
 </h3>
 
 <br/>
